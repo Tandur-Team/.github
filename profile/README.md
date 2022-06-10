@@ -4,7 +4,7 @@
 
 We are from team C22-PS024, and this is our project repository.
 
-Our project combines technology from path machine learning, android, and cloud computing to produce a mobile application that can predict the best crops/plants based on geospatial conditions.
+Our project combines technology from machine learning, android, and cloud computing to produce a mobile application that can predict the best crops/plants based on geospatial conditions.
 
 ## Project Branch
 - [Machine Learning](https://github.com/Tandur-Team/tandur-ml) 
