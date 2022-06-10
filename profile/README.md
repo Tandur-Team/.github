@@ -1,12 +1,12 @@
-## Hi there 👋
+# C22-PS024 - Bangkit 2022 Capstone Team (Tandur)
 
-<!--
+## Hello Everyone! :wave:
 
-**Here are some ideas to get you started:**
+We are from team C22-PS024, and this is our project repository.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our project combines technology from path machine learning, android, and cloud computing to produce a mobile application that can predict the best crops/plants based on geospatial conditions.
+
+## Project Branch
+- [Machine Learning](https://github.com/Tandur-Team/tandur-ml) 
+- [Android](https://github.com/Tandur-Team/tandur-android)
+- [Backend](https://github.com/Tandur-Team/tandur-ml)
