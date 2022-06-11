@@ -52,5 +52,5 @@ Our project combines technology from machine learning, android, and cloud comput
 [linkedin-daus]: https://www.linkedin.com/in/muhammad-firdaus-maulana/
 [linkedin-darell]: https://www.linkedin.com/in/darell-hermawan-887201223/
 [linkedin-abed]: https://www.linkedin.com/in/reza-abid-abistha-857b6a234/
-[linkedin-bagas]: https://www.linkedin.com/
+[linkedin-bagas]: https://www.linkedin.com/in/bagas-andrian-b09486204/
 [linkedin-shafiq]: https://www.linkedin.com/in/iqbalshafiq/
