@@ -18,6 +18,7 @@ Our project combines technology from machine learning, android, and cloud comput
 
 ## Project Branch
 - [Machine Learning][github-tandur-ml]
+- [Machine Learning Production (Plants Survival Rate Prediction)][github-tandur-ml-production]
 - [Android][github-tandur-android]
 - [Backend][github-tandur-backend]
 
@@ -27,6 +28,7 @@ Our project combines technology from machine learning, android, and cloud comput
 [//]: # (LINKS)
 
 [github-tandur-ml]: https://github.com/Tandur-Team/tandur-ml
+[github-tandur-ml-production]: https://github.com/Tandur-Team/tandur-ml-production
 [github-tandur-android]: https://github.com/Tandur-Team/tandur-android
 [github-tandur-backend]: https://github.com/Tandur-Team/tandur-backend
 
